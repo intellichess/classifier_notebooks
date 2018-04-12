@@ -5,4 +5,4 @@ Our aim was to create an accessible platform to play chess against an AlphaZero 
 
 There's a lot of work still to be done but the results seem promising so far!
 
-Needs to be cleaned/maintained.
+Warning: This repo needs to be cleaned/maintained.
