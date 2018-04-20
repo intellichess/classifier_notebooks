@@ -5,4 +5,6 @@ Our aim was to create an accessible platform to play chess against an AlphaZero 
 
 There's a lot of work still to be done but the results seem promising so far!
 
-Warning: This repo needs to be cleaned/maintained.
+This repo is representative of the work we've done towards classifying different players as aggressive and defensive based on historical records of games.
+
+For source code regarding our processing of the data up until this point, please refer to our <a href="https://github.com/intellichess/tagger">"tagger" repo.</a>
